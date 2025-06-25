@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{907B6B09-F013-FAB3-BBDA-91A4E147B0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixelation.Runtime", "Pixelation.Runtime.csproj", "{47B2EA95-97E6-0A5D-0335-F79F517D5255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixelation.Editor", "Pixelation.Editor.csproj", "{6861AA03-2B70-0CEA-5340-FA61575A939D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907B6B09-F013-FAB3-BBDA-91A4E147B0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907B6B09-F013-FAB3-BBDA-91A4E147B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907B6B09-F013-FAB3-BBDA-91A4E147B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907B6B09-F013-FAB3-BBDA-91A4E147B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B2EA95-97E6-0A5D-0335-F79F517D5255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B2EA95-97E6-0A5D-0335-F79F517D5255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B2EA95-97E6-0A5D-0335-F79F517D5255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B2EA95-97E6-0A5D-0335-F79F517D5255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6861AA03-2B70-0CEA-5340-FA61575A939D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6861AA03-2B70-0CEA-5340-FA61575A939D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6861AA03-2B70-0CEA-5340-FA61575A939D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6861AA03-2B70-0CEA-5340-FA61575A939D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
